@@ -32,7 +32,6 @@ After cleaning:
 - Converted text to lowercase  
 - Encoded labels using LabelEncoder
 
-###  Comments
 The dataset contained noisy symbols and links typical of phishing messages.  
 Cleaning significantly improved text quality and model performance.
 
@@ -44,7 +43,8 @@ Cleaning significantly improved text quality and model performance.
 - Bar chart showing distribution of Safe vs Phishing emails  
 - Pie chart of class balance  
 - WordClouds for frequent words  
-- WordCloud of unique words  
+- WordCloud of unique words
+  
 Phishing emails often contained promotional keywords like free, click, offer.  
 Safe emails had more structured and formal vocabulary.
 
